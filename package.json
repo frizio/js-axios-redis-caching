@@ -1,7 +1,7 @@
 {
-  "name": "javascript-express-artifact",
-  "version": "1.0.0",
-  "description": "Demo Web Application in Javascrip",
+  "name": "js-axios-redis-caching",
+  "version": "1.1.0",
+  "description": "js-axios-redis-caching",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/"
@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.25.0",
     "cors": "^2.8.5",
     "dotenv": "^15.0.0",
     "express": "^4.17.2",
     "morgan": "^1.10.0",
+    "redis": "^4.0.3",
     "response-time": "^2.3.2"
   },
   "devDependencies": {

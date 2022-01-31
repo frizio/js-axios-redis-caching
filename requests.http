@@ -1,5 +1,5 @@
-### Get 1
-GET http://localhost:3000
-
 ### Get API
 GET http://localhost:3000/api
+
+### Get 1
+GET http://localhost:3000/api/character
